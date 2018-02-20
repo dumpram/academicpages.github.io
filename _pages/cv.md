@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc. in Electronic and Computer Engineering, FER, University of Zagreb, 2015
+* M.Sc. in Electronic and Computer Engineering, FER, University of Zagreb, 2017
+* Ph.D  in Computing, FER, University of Zagreb, 2020 (expected)
 
 Work experience
 ======
@@ -40,12 +40,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
