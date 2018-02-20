@@ -17,24 +17,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June, 2017 - December, 2019: Research Assistant at SafeTRAM project
+  * University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
+  * Research and implementation of mixed-criticality scheduling algorithms
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Year, 2016: Embedded Software Intern
+  * Byte Lab, Inc.
+  * Developing embedded software for various project
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C
+* Java
+* Git
+* PCB development, Altium
 
 Publications
 ======
@@ -50,4 +46,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 2 different slack teams
