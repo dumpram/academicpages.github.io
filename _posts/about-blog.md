@@ -1,7 +1,7 @@
 ---
 title: 'About this page'
 date: 2018-02-20
-permalink: /posts/about-blog
+permalink: /posts/2018/02/about-blog/
 tags:
   - start
   - about
