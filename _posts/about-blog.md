@@ -1,13 +1,20 @@
----
-title: 'About this page'
-date: 2018-02-20
-permalink: /posts/2018/02/about-blog/
-tags:
-  - start
-  - about
-  - blog
----
-# What is it all about?
-
-I've decided to create this blog and this GitHub page to make my work visible to the public. I
-hope that I will generate more material and put it here.
+----
+-title: 'Blog Post number 2'
+-date: 2012-08-14
+-permalink: /posts/2012/08/blog-post-2/
+-tags:
+-  - cool posts
+-  - category1
+-  - category2
+----
+-
+-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+-
+-Headings are cool
+-======
+-
+-You can have many headings
+-======
+-
+-Aren't headings cool?
+-------
