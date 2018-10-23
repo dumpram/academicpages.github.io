@@ -1,7 +1,7 @@
 ---
 title: "Mixed-criticality scheduling theory in safety-critical real-time systems"
 collection: publications
-permalink: /publication/phd-qualifying.md
+permalink: /publication/phd-qualifying
 excerpt: 'Review of state-of-the-art work in area of mixed-criticality scheduling.'
 date: 2018-07-13
 venue: 'PhD Qualifying Exam, University of Zagreb, Faculty of Electrical Engineering and
