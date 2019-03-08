@@ -229,7 +229,7 @@ defaults:
       path: ""
       type: topics
     values:
-      layout: single
+      layout: default
       author_profile: true
       share: true
       comments: true
