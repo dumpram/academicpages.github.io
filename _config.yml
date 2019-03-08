@@ -227,7 +227,7 @@ defaults:
   # _topics
   - scope:
       path: ""
-      type: publications
+      type: topics
     values:
       layout: single
       author_profile: true
