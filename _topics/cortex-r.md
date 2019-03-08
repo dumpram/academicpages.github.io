@@ -7,9 +7,6 @@ date: 2019-03-08
 
 ---
 
-
-# Implementation of industrial embedded systems on Cortex-R platforms
-
 ## Area overview
 
 Alongside real-time constraints, industrial embedded systems have functional 
