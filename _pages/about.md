@@ -11,8 +11,10 @@ redirect_from:
 I'm PhD student on Faculty of Electrical Engineering and Computing, University of Zagreb. 
 This site contains projects, publications and information about my research work.
 
-# Projects
+# Current student projects
 
-## Developing minimal embedded hypervisor for HRT performance
+{% include base_path %}
 
-The goal is to develop mixed-criticality featured hypervisor for embedded systems.
+{% for post in site.topics reversed %}
+  {% include archive-single.html %}
+{% endfor %}
