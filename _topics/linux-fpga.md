@@ -13,7 +13,7 @@ Goal of the project is develop userspace libraries and device drivers
 for communication with custom IP blocks on FPGA hardware for digital 
 signal processing. Developed tools have to enable user to transfer data 
 between PS (Processing system) and PL (Programmable Logic) parts of the 
-device.
+device. Additional tasks are:
 
 * research of existing tools,
 * determine MPSoC platform with FPGA for testing (ZCU102 is suggested),
