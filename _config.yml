@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Ivan Pavić (@dumpram)"
   avatar           : "profile.png"
-  bio              : "University of Zagreb, Faculty of Electrical Engineering and Computing"
-  location         : "Department of Electronic Systems and Information Processing"
+  bio              : "University of Zagreb, Faculty of Electrical Engineering and Computing, Department of Electronic Systems and Information Processing"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.hr/citations?user=os49FmoAAAAJ&hl=hr"
   email            :
