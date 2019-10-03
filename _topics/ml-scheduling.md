@@ -3,7 +3,7 @@ title: "Machine Learning in Scheduling"
 collection: topics
 permalink: /topics/ml-scheduling
 excerpt: 'Use of machine learining methods for solving scheduling problems'
-date: 2019-03-08
+date: 2019-10-03
 
 ---
 
